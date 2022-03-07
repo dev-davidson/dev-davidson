@@ -8,4 +8,5 @@
 dev-davidson/dev-davidson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![programminglanguages-600](https://user-images.githubusercontent.com/74470344/156951969-7238529b-967a-41d6-8147-63ad787be666.png)
+
+![o-que-é-ling-prog](https://user-images.githubusercontent.com/74470344/156952705-f6986bf2-6dcd-45c5-a5ec-e59b73e458c1.jpg)
