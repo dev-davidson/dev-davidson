@@ -1,6 +1,6 @@
-- 👋 Ola, sou @dev-davidson
-- 👀 Estou interessado em especificação, desenvolvimento, manutenção e criação de software,
-- 📚 Atualmente sou estudante em Engenharia de Software
+- 👋 Ola, sou Davidson Oliveira.
+- 👀 Estou interessado em especificação, desenvolvimento, manutenção e criação de software.
+- 📚 Atualmente sou estudante em Engenharia de Software.
 - 💻 Estou procurando colaborar com profissionais que desenvolvam programas, aplicativos e sistemas.
 - 📫 Me encontre em https://www.linkedin.com/in/davidson-oliveira2021/
 
