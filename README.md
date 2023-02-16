@@ -9,4 +9,4 @@ dev-davidson/dev-davidson is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![o-que-é-ling-prog](https://user-images.githubusercontent.com/74470344/156952705-f6986bf2-6dcd-45c5-a5ec-e59b73e458c1.jpg)
+
