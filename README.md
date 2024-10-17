@@ -1,6 +1,6 @@
 - 👋 Ola, sou Davidson Oliveira.
 - 👀 Estou interessado em especificação, desenvolvimento, manutenção e criação de software.
-- 📚 Atualmente sou estudante em Engenharia de Software.
+- 📚 Graduado em Engenharia de Software.
 - 💻 davidson.oliveira.2000@gmail.com
   
 
