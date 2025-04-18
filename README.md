@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img align="right" height="128" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3QxaXh2NWg0dzRjbHM2ajVyMGVpZ2t3aXUyNWJ1aHFtaGhjeW05aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6sUCb6laWgfxnrrG4N/giphy.gif"  />
+<img align="right" height="207" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3QxaXh2NWg0dzRjbHM2ajVyMGVpZ2t3aXUyNWJ1aHFtaGhjeW05aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6sUCb6laWgfxnrrG4N/giphy.gif"  />
 
 ###
 
@@ -48,15 +48,7 @@
   <a href="davidson.oliveira.2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-davidson/dev-davidson/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-davidson/dev-davidson/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
