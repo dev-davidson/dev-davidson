@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Meu nome e Davidson Oliveira ... sou desenvolvedor Web, de Ipatinga MG</h2>
+<h2 align="left">Ola 👋! Meu nome e Davidson Oliveira ... sou desenvolvedor Full Stack , de Ipatinga MG</h2>
 
 ###
 
