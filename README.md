@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Meu nome e Davidson Oliveira ... sou desenvolvedor Full Stack , de Ipatinga MG</h2>
+[<h2 align="left">Ola 👋! Meu nome e Davidson Oliveira ... sou desenvolvedor Full Stack , de Ipatinga MG</h2>
 
 ###
 
@@ -51,4 +51,4 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
 </div>
 
-###
+###](https://wa.me/5531993079970?text=Davidson%20Oliveira)
