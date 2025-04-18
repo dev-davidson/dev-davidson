@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Meu nome e davidson Oliveira e sou desenvolvedor web</h2>
+<h2 align="left">Ola 👋! Meu nome e Davidson Oliveira e sou Desenvolvedor Web</h2>
 
 ###
 
